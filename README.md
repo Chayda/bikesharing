@@ -1,6 +1,8 @@
 # bikesharing
 ## Overview: 
 ### Using data from fictitious NYC bike-share company citibike, create proposal how the bike-share business can work in Des Moines, Idaho. Provide NCY bike trip analysis for stakeholders, to persuade them to fund a similar project in Des Moines.
+### Visualizations presented using Tableau Public. 
+#### View Project Link: https://public.tableau.com/app/profile/chayda/viz/CitiBike_Module_14/Citibike?publish=yes
 
 #### Considerations:
 
