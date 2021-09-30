@@ -3,6 +3,7 @@
 ### Using data from fictitious NYC bike-share company citibike, create proposal how the bike-share business can work in Des Moines, Idaho. Provide NCY bike trip analysis for stakeholders, to persuade them to fund a similar project in Des Moines.
 
 Our considerations:
+
 •	User type: Customer or Subscriber
 
 •	Gender: Male, Female, Unknown
@@ -46,12 +47,12 @@ The use throughout the day has the same pattern for the male- and female-identif
 This chart shows the checkout times, with minutes at the x-axis and the columns representing each subsequent hour.
 Most Bikes are checked out for under 60 minutes, which we’d expect if people were using the bikes primarily for commuting to work; most people wouldn’t ride a bike over an hour to work every day. 
 
-<img width="667" alt="Checkout_Times_for_Users" src="https://user-images.githubusercontent.com/74624855/135366590-21a5279b-675d-4fd0-bf73-bd48fc5e86fa.png">
+<img width="719" alt="Checkout_Times_for_Users" src="https://user-images.githubusercontent.com/74624855/135366590-21a5279b-675d-4fd0-bf73-bd48fc5e86fa.png">
 
 ### 8.	Checkout Times by Gender: 
 This chart also shows the duration of each bike checkout, further broken down by “gender.” As per the previous plots, the male-identified group used the bike service the most; the numbers are almost triple the use from the other two gender groups represented in the dataset. 
 
-<img width="704" alt="Checkout_Times_by_Gender" src="https://user-images.githubusercontent.com/74624855/135366593-6f064fea-bab3-4a35-85b1-3ee040cb9a78.png">
+<img width="719" alt="Checkout_Times_by_Gender" src="https://user-images.githubusercontent.com/74624855/135366593-6f064fea-bab3-4a35-85b1-3ee040cb9a78.png">
 
 ## Summary: 
 The bikes appear to be used primarily for commutes to the work during the week, and for recreation on weekends. The highest number of Subscribers were the male-identified group and the use was highest during “rush” hours. For all gender-related data, the “unknown” group was minimal compared to the male-, and female-identified groups. In another city, such as Des Moines, stations can be located at busiest areas of traffic for people to use as commute to work. Also have more stations in areas that people like to walk around or sightsee, such as parks or waterfront, as well as commercial districts. The top starting and ending locations indicate that the highest use of these bikes are in the urban parts of the city. The rural areas have a lot less use, and won’t need as many bike stations.
