@@ -2,15 +2,15 @@
 ## Overview: 
 ### Using data from fictitious NYC bike-share company citibike, create proposal how the bike-share business can work in Des Moines, Idaho. Provide NCY bike trip analysis for stakeholders, to persuade them to fund a similar project in Des Moines.
 
-Our considerations:
+#### Considerations:
 
-•	User type: Customer or Subscriber
+#### •	User type: Customer or Subscriber
 
-•	Gender: Male, Female, Unknown
+#### •	Gender: Male, Female, Unknown
 
-•	Trip duration
+#### •	Trip duration
 
-•	Starting and Ending Locations
+#### •	Starting and Ending Locations
 
 ## Results: 
 ### 1.	Top Starting Locations: 
