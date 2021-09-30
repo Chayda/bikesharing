@@ -4,13 +4,13 @@
 
 #### Considerations:
 
-#### •	User type: Customer or Subscriber
+ •	User type: Customer or Subscriber
 
-#### •	Gender: Male, Female, Unknown
+ •	Gender: Male, Female, Unknown
 
-#### •	Trip duration
+ •	Trip duration
 
-#### •	Starting and Ending Locations
+ •	Starting and Ending Locations
 
 ## Results: 
 ### 1.	Top Starting Locations: 
